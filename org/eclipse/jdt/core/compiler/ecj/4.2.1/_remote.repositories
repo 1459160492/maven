@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 17 10:52:47 CST 2020
+ecj-4.2.1.jar>central=
+ecj-4.2.1.pom>central=
+ecj-4.2.1.pom>planetmirror.com=
+ecj-4.2.1.jar>planetmirror.com=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 25 10:06:36 CST 2020
+maven-jar-plugin-3.2.0.jar>planetmirror.com=
+maven-jar-plugin-3.2.0.pom>planetmirror.com=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 17 10:46:36 CST 2020
+activation-1.1.pom>central=
+activation-1.1.pom>planetmirror.com=
+activation-1.1.jar>planetmirror.com=
+activation-1.1.jar>central=

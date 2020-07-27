@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 24 23:20:03 CST 2020
+maven-archiver-2.6.jar>planetmirror.com=
+maven-archiver-2.6.pom>central=
+maven-archiver-2.6.jar>central=
+maven-archiver-2.6.pom>planetmirror.com=

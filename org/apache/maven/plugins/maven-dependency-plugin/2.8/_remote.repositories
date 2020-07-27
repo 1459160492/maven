@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 16 21:37:11 CST 2020
+maven-dependency-plugin-2.8.pom>central=
+maven-dependency-plugin-2.8.jar>planetmirror.com=
+maven-dependency-plugin-2.8.pom>planetmirror.com=
+maven-dependency-plugin-2.8.jar>central=

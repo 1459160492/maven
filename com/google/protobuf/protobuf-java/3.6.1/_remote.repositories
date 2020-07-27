@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 09 23:30:03 CST 2020
+protobuf-java-3.6.1.jar>planetmirror.com=
+protobuf-java-3.6.1.pom>planetmirror.com=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 16 20:21:47 CST 2020
+sisu-guice-2.1.7-noaop.jar>central=
+sisu-guice-2.1.7-noaop.jar>planetmirror.com=
+sisu-guice-2.1.7.pom>central=
+sisu-guice-2.1.7.pom>planetmirror.com=

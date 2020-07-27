@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 21:36:36 CST 2020
+maven-compiler-plugin-3.2.jar>planetmirror.com=
+maven-compiler-plugin-3.2.pom>central=
+maven-compiler-plugin-3.2.pom>planetmirror.com=
+maven-compiler-plugin-3.2.jar>central=

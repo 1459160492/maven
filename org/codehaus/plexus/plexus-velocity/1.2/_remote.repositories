@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 24 23:20:20 CST 2020
+plexus-velocity-1.2.jar>central=
+plexus-velocity-1.2.jar>planetmirror.com=
+plexus-velocity-1.2.pom>planetmirror.com=
+plexus-velocity-1.2.pom>central=

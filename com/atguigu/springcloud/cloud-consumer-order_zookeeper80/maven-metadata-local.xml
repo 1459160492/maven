@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.atguigu.springcloud</groupId>
+  <artifactId>cloud-consumer-order_zookeeper80</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200725032615</lastUpdated>
+  </versioning>
+</metadata>

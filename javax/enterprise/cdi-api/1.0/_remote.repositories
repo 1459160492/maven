@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 25 10:08:56 CST 2020
+cdi-api-1.0.pom>planetmirror.com=
+cdi-api-1.0.jar>planetmirror.com=
+cdi-api-1.0-sources.jar>central=

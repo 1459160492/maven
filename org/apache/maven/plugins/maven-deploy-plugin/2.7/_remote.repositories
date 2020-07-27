@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 18 22:29:27 CST 2020
+maven-deploy-plugin-2.7.pom>planetmirror.com=
+maven-deploy-plugin-2.7.jar>planetmirror.com=
+maven-deploy-plugin-2.7.pom>central=
+maven-deploy-plugin-2.7.jar>central=

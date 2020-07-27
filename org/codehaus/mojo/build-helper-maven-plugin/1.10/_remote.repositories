@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 24 23:19:55 CST 2020
+build-helper-maven-plugin-1.10.jar>planetmirror.com=
+build-helper-maven-plugin-1.10.pom>planetmirror.com=

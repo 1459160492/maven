@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 16 20:22:00 CST 2020
+commons-io-2.5-sources.jar>central=
+commons-io-2.5.pom>planetmirror.com=
+commons-io-2.5.pom>central=
+commons-io-2.5.jar>planetmirror.com=
+commons-io-2.5.jar>central=

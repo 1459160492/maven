@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 16 20:24:52 CST 2020
+commons-collections-3.2.jar>central=
+commons-collections-3.2.pom>central=
+commons-collections-3.2.pom>planetmirror.com=

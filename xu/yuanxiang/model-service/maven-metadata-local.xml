@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>xu.yuanxiang</groupId>
+  <artifactId>model-service</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200613170509</lastUpdated>
+  </versioning>
+</metadata>

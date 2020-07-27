@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 01:05:10 CST 2020
+model-web-1.0-SNAPSHOT.war>=
+model-web-1.0-SNAPSHOT.pom>=

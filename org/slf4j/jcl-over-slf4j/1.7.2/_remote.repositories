@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 17 10:52:47 CST 2020
+jcl-over-slf4j-1.7.2.jar>central=
+jcl-over-slf4j-1.7.2.jar>planetmirror.com=
+jcl-over-slf4j-1.7.2.pom>planetmirror.com=
+jcl-over-slf4j-1.7.2.pom>central=

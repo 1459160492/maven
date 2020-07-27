@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 16 22:13:39 CST 2020
+junit-4.10-sources.jar>central=
+junit-4.10.jar>planetmirror.com=
+junit-4.10.pom>planetmirror.com=
+junit-4.10.jar>central=
+junit-4.10.pom>central=

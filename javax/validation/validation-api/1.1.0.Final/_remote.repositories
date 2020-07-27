@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 24 23:18:24 CST 2020
+validation-api-1.1.0.Final.jar>planetmirror.com=
+validation-api-1.1.0.Final.pom>central=
+validation-api-1.1.0.Final.jar>central=
+validation-api-1.1.0.Final.pom>planetmirror.com=

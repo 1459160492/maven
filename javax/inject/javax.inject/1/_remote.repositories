@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 25 10:08:56 CST 2020
+javax.inject-1.pom>central=
+javax.inject-1.jar>planetmirror.com=
+javax.inject-1-javadoc.jar>central=
+javax.inject-1.pom>planetmirror.com=
+javax.inject-1.jar>central=
+javax.inject-1-sources.jar>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 17 10:52:36 CST 2020
+tomcat7-maven-plugin-2.1.jar>central=
+tomcat7-maven-plugin-2.1.jar>planetmirror.com=
+tomcat7-maven-plugin-2.1.pom>central=
+tomcat7-maven-plugin-2.1.pom>planetmirror.com=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 24 23:19:53 CST 2020
+plexus-utils-1.2.jar>planetmirror.com=
+plexus-utils-1.2.pom>central=
+plexus-utils-1.2.pom>planetmirror.com=

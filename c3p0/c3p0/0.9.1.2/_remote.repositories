@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 06 18:31:08 CST 2020
+c3p0-0.9.1.2.jar>planetmirror.com=
+c3p0-0.9.1.2.jar>central=
+c3p0-0.9.1.2-sources.jar>central=
+c3p0-0.9.1.2.pom>central=
+c3p0-0.9.1.2.pom>planetmirror.com=
+c3p0-0.9.1.2-javadoc.jar>central=

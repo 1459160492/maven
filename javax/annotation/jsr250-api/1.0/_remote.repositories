@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 25 10:08:56 CST 2020
+jsr250-api-1.0.jar>planetmirror.com=
+jsr250-api-1.0.jar>central=
+jsr250-api-1.0.pom>planetmirror.com=
+jsr250-api-1.0.pom>central=
+jsr250-api-1.0-sources.jar>central=

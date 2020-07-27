@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 22:45:25 CST 2020
+netty-3.10.6.Final.pom>central=
+netty-3.10.6.Final.jar>planetmirror.com=
+netty-3.10.6.Final.pom>planetmirror.com=
+netty-3.10.6.Final.jar>central=

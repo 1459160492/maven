@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 17 10:52:38 CST 2020
+maven-core-2.0.6.pom>central=
+maven-core-2.0.6.jar>central=
+maven-core-2.0.6.jar>planetmirror.com=
+maven-core-2.0.6.pom>planetmirror.com=

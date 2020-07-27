@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 16 20:24:10 CST 2020
+maven-install-plugin-2.5.2.pom>central=
+maven-install-plugin-2.5.2.jar>central=
+maven-install-plugin-2.5.2.pom>planetmirror.com=
+maven-install-plugin-2.5.2.jar>planetmirror.com=
